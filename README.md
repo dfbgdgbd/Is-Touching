@@ -1,2 +1,2 @@
-# Is-Touching
-Detection of two rectangles touching.
+# p5.play-boilerplate
+Boiler plate for p5.play
